@@ -1,1 +1,1 @@
-![Hello](https://www.hackingwithswift.com/uploads/matrix.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
